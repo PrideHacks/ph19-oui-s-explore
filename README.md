@@ -2,7 +2,7 @@
 
 ## What was completed (with links if relevant) ?
 - Logo
-- Website with resources https://ouisexplore.wixsite.com/ouisexplore
+- Website with resources https://passionethandicap.wixsite.com/ouisexplore-1
 - Documentation on how to maintain website
 
 ## What Still to be done (with links and responsible person if relevant) ?
