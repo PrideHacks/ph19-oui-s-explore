@@ -1,11 +1,12 @@
 # ph19-oui-s-explore
 
-
 ## What was completed (with links if relevant) ?
-- website 
+- website https://ouisexplore.wixsite.com/ouisexplore
 
 ## What Still to be done (with links and responsible person if relevant) ?
-
+- tell France about documentation
+- send login credentials to France
+- Backup content
 
 ## Documentation, assets etc 
 
